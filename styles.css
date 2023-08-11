@@ -1,8 +1,40 @@
 body {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
-    font-size: 16px;
-    line-height: 1.5;
-    background-color:khaki;
-    color: #333;
+    font-family: cursive, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color:plum;
+    color: white;
+    padding: 10px;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar li {
+    margin: 0 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+}
+
+.header {
+    text-align: center;
+    padding: 30px;
+    background-color:blanchedalmond;
+}
+
+
+
+.search-form {
+    text-align: center;
+    padding: 20px;
 }
 
